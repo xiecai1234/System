@@ -1,5 +1,6 @@
 # 知识整理
 抓当前页面的包名类名 adb shell dumpsys activity | findstr mResumedActivity
+
 BeyondCompare v4.3.4.24657序列号  
 
 VErpepLezNP0xt383CQz43LYV8Q6VHkDlLusjClOAaTA6iqdAVSXgKDzH
