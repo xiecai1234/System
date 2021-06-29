@@ -1,6 +1,6 @@
 # 知识整理
 
-BeyondCompare序列号
+BeyondCompare v4.3.4.24657序列号  
 
 VErpepLezNP0xt383CQz43LYV8Q6VHkDlLusjClOAaTA6iqdAVSXgKDzH
 rAzBBuMSP388G9DwNwK0mSlSf6MMvKwv9X6ifB9NXkFI-yhSKe35vk6TN
