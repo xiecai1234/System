@@ -3,3 +3,6 @@
 BeyondCompare序列号
 
 VErpepLezNP0xt383CQz43LYV8Q6VHkDlLusjClOAaTA6iqdAVSXgKDzH
+rAzBBuMSP388G9DwNwK0mSlSf6MMvKwv9X6ifB9NXkFl-yhSKe35vk6TN
+r6q6lh08wla6rxoaTrKwiJQaqg7tvvE46qCyRNr+hAQyR0k0C9tKU4jke
+
